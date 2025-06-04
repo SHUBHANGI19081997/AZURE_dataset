@@ -1,0 +1,9 @@
+{
+	"name": "Azuredatafactoryshubhangi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d9d73fe-a923-4254-acf8-27aa7b52c6bf",
+		"tenantId": "35ec60ae-e6c7-4379-a8e5-be778be7ee8c"
+	}
+}
